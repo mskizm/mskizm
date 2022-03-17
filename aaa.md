@@ -1,6 +1,6 @@
 # title
 
-## chapter
+## chapter1
 aaa
 
 ```html
@@ -9,7 +9,7 @@ aaa
     <body></body>
 </html>
 ```
-## chabter2
+## chapter2
 
 あいうえお
 
